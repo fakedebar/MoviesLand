@@ -21,5 +21,5 @@ This project is a simple and responsive website built using React.js. It is desi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-react-website.git
-   cd my-react-website
+   https://github.com/fakedebar/MoviesLand.git
+   cd MoviesLand
