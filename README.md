@@ -23,3 +23,7 @@ This project is a simple and responsive website built using React.js. It is desi
    ```bash
    https://github.com/fakedebar/MoviesLand.git
    cd MoviesLand
+   `
+   2. Start npm :
+   npm start
+   
